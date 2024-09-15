@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Codes\\DP-Lab\\Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|F:\\Codes\\DP-Lab\\Lab01\\lab01\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|solutionrelative:lab01\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|F:\\Codes\\DP-Lab\\Lab01\\lab01\\rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|solutionrelative:lab01\\rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|F:\\Codes\\DP-Lab\\Lab01\\lab01\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|solutionrelative:lab01\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|f:\\codes\\dp-lab\\lab01\\lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|solutionrelative:lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|F:\\Codes\\DP-Lab\\Lab01\\lab01\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|solutionrelative:lab01\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|F:\\Codes\\DP-Lab\\Lab01\\lab01\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|solutionrelative:lab01\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|F:\\Codes\\DP-Lab\\Lab01\\lab01\\ridetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|solutionrelative:lab01\\ridetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|F:\\Codes\\DP-Lab\\Lab01\\lab01\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|solutionrelative:lab01\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|F:\\Codes\\DP-Lab\\Lab01\\lab01\\digitalwallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|solutionrelative:lab01\\digitalwallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|F:\\Codes\\DP-Lab\\Lab01\\lab01\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|solutionrelative:lab01\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|F:\\Codes\\DP-Lab\\Lab01\\lab01\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D4E092-158A-44DA-96D7-93DD883EC1DD}|Lab01\\Lab01.csproj|solutionrelative:lab01\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RideType.cs",
+              "DocumentMoniker": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\RideType.cs",
+              "RelativeDocumentMoniker": "Lab01\\RideType.cs",
+              "ToolTip": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\RideType.cs",
+              "RelativeToolTip": "Lab01\\RideType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:47:18.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\Admin.cs",
+              "RelativeDocumentMoniker": "Lab01\\Admin.cs",
+              "ToolTip": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\Admin.cs",
+              "RelativeToolTip": "Lab01\\Admin.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:45:16.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Lab01\\NotificationService.cs",
+              "ToolTip": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\NotificationService.cs",
+              "RelativeToolTip": "Lab01\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:44:25.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DigitalWallet.cs",
+              "DocumentMoniker": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\DigitalWallet.cs",
+              "RelativeDocumentMoniker": "Lab01\\DigitalWallet.cs",
+              "ToolTip": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\DigitalWallet.cs",
+              "RelativeToolTip": "Lab01\\DigitalWallet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:44:00.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PayPal.cs",
+              "DocumentMoniker": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\PayPal.cs",
+              "RelativeDocumentMoniker": "Lab01\\PayPal.cs",
+              "ToolTip": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\PayPal.cs",
+              "RelativeToolTip": "Lab01\\PayPal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:43:36.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\CreditCard.cs",
+              "RelativeDocumentMoniker": "Lab01\\CreditCard.cs",
+              "ToolTip": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\CreditCard.cs",
+              "RelativeToolTip": "Lab01\\CreditCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:42:22.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Lab01\\PaymentMethod.cs",
+              "ToolTip": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\PaymentMethod.cs",
+              "RelativeToolTip": "Lab01\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:41:58.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\Trip.cs",
+              "RelativeDocumentMoniker": "Lab01\\Trip.cs",
+              "ToolTip": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\Trip.cs",
+              "RelativeToolTip": "Lab01\\Trip.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:41:29.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\Driver.cs",
+              "RelativeDocumentMoniker": "Lab01\\Driver.cs",
+              "ToolTip": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\Driver.cs",
+              "RelativeToolTip": "Lab01\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:40:44.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rider.cs",
+              "DocumentMoniker": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\Rider.cs",
+              "RelativeDocumentMoniker": "Lab01\\Rider.cs",
+              "ToolTip": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\Rider.cs",
+              "RelativeToolTip": "Lab01\\Rider.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:39:48.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01\\Program.cs",
+              "ToolTip": "F:\\Codes\\DP-Lab\\Lab01\\Lab01\\Program.cs",
+              "RelativeToolTip": "Lab01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:32:07.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
